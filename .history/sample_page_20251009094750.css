@@ -1,0 +1,5 @@
+.nav-links{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: blue;
+}

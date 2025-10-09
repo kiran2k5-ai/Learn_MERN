@@ -1,0 +1,24 @@
+.nav-links{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 20px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}   
+.paragraph{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 7%;
+    margin-bottom: 15%;
+    margin-left: 20%;
+    
+}
+html, body {
+    fon-color: azure;
+    height: 100%;
+    margin: 0;
+}
