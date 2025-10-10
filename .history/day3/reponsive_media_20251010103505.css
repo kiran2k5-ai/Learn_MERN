@@ -1,0 +1,5 @@
+@media only screen and (ma-width:600px){
+    .responsive-nav{
+        background-color:red;
+    }
+}
