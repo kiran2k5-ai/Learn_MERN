@@ -1,0 +1,4 @@
+function double(num){
+    return num*2;
+}
+let arr = [2,3,4,5]
