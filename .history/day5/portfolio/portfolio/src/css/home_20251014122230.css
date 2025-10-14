@@ -1,0 +1,11 @@
+.navbar{
+
+}
+.navh{
+    margin-top: 50px;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    
+}

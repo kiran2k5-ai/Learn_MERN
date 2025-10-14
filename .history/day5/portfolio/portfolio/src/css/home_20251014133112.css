@@ -1,0 +1,19 @@
+.navbar{
+    margin-top: 3%;
+    justify-content: center;
+    width: 100px;
+    height: ;
+}
+.navh{
+    margin-right: 50%;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    
+}
+.link-a{
+    padding-top: 28px;
+    text-decoration: none;
+}

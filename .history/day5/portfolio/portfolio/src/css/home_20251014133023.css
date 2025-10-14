@@ -1,0 +1,16 @@
+.navbar{
+    margin-top: ;
+}
+.navh{
+    margin-right: 60%;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    
+}
+.link-a{
+    padding-top: 28px;
+    text-decoration: none;
+}

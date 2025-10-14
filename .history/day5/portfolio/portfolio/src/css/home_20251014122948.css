@@ -1,0 +1,14 @@
+.navbar{
+
+}
+.navh{
+    margin-right: 70%;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.link-a{
+    padding-top: 32px;
+}

@@ -1,0 +1,11 @@
+.navbar{
+
+}
+.navh{
+    justify-content: first baseline;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    
+}

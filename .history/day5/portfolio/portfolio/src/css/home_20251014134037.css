@@ -1,0 +1,21 @@
+.navbar{
+    margin-top: 3%;
+    display: flex;
+    justify-content: s;
+    width: 1200px;
+    height: 100px;
+    background-color: aliceblue;
+}
+.navh{
+    padding-top: 30px;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    
+}
+.link-a{
+    text-decoration: none;
+
+}

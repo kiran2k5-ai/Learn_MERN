@@ -1,0 +1,21 @@
+.navbar{
+    margin-top: 3%;
+    justify-content: ;
+    display: flex;
+    justify-content: space-around;
+    width: 1000px; 
+    height: 100px; 
+    background-color: aliceblue;
+}
+.navh{}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 40px;
+    
+}
+.link-a{
+    text-decoration: none;
+
+}
