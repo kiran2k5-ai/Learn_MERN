@@ -1,0 +1,12 @@
+.about{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.abouth{
+    background: linear-gradient(to right, #00b4ff, #a100ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}

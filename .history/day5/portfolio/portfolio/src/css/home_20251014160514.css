@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.content-1{
+    padding-top: 100%;
+}
+img{
+    width: 380px;
+    height:350px;
+    border-radius: 50%;
+}

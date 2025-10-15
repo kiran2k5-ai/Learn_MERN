@@ -1,0 +1,30 @@
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+    gap: 100px;
+}
+.content-1{
+    padding-top: 30px;
+}
+.content-2{
+    width: 280px;
+    height:250px;
+    border: 5px solid;
+    border-image: linear-gradient(to top,  #00a6ff, #d400ff) 1;
+}
+.homeh {
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #2e2e2e; /* dark gray text */
+  margin: 40px 0;
+}
+
+.homeh .name {
+  background: linear-gradient(to right, #00b4ff, #a100ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}

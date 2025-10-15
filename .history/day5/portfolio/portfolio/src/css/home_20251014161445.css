@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+}
+
+.content-1{
+    padding-top: 50px;
+}
+.content-2{
+    width: 280px;
+    height:250px;
+    border-radius: 50%;
+    border: 5px solid black;
+}

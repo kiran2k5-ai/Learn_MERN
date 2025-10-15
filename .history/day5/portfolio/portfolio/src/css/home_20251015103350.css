@@ -1,0 +1,18 @@
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+    gap: 100px;
+}
+.content-1{
+    padding-top: 40px;
+}
+.content-2{
+    width: 280px;
+    height:250px;
+    border: 5px solid;
+    border-image: linear-gradient(to top,  #00a6ff, #d400ff) 1;
+}
+.navh{
+    back: linear-gradient(to top,  #00a6ff, #d400ff) 1;
+}

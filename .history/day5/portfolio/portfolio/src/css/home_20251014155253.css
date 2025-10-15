@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.content-1{
+
+}
+.content-2{
+    width: 100px;
+    height: 100px;
+}

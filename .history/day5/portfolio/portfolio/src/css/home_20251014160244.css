@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.content-1{
+
+}
+img{
+    width: 300px;
+    height:200px;
+    border-radius: 50;
+}

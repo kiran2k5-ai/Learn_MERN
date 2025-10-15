@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    justify-content: spa;
+}
+
+.content-1{
+
+}
+img{
+    width: 380px;
+    height:350px;
+    border-radius: 50%;
+}
