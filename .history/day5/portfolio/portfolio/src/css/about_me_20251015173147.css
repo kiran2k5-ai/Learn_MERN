@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+.about{
+    margin-top: 3%;
+    display: flex;
+    margin-left: 8%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.abouth{
+    color: #05306d;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.aboutp{
+    margin-left: 5%;
+    font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 300;          /* light / thin appearance in the image */
+    font-size: 18px;           /* approximate — try 16–20px depending on real size */
+    line-height: 1.6;          /* comfortable reading spacing */
+    letter-spacing: 0.2px;     /* slight tracking */
+    color: #181717;         /* limit line length similar to the image */
+    margin: 0; 
+}
+
+.aboutw{
+    margin-top: 3%;
+    color: #05306d;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.abouti{
+    font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 300;          /* light / thin appearance in the image */
+    font-size: 25px;           /* approximate — try 16–20px depending on real size */
+    line-height: 1.6;          /* comfortable reading spacing */
+    letter-spacing: 0.2px;     /* slight tracking */
+    color: #181717;         /* limit line length similar to the image */
+    
+}
+
+.about-i{
+    display: flex;
+    flex-direction: row;
+    gap: 55%;
+}
+.aboutintern1{
+    padding-top: 5px;
+    width: 150px;
+    height: 100px;
+}
+.aboutintern2{
+    padding-left: 25px;
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+.line{
+    wi
+}

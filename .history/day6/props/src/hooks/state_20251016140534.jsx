@@ -1,0 +1,26 @@
+import React from 'react'
+import { useState } from 'react';
+
+const state = () => {
+
+    const [count , setCount] = useState({name:'', email:'',password:'',department:''});
+    
+    
+  return (
+    <div>
+      <form action="">
+        <input type="text" placeholder='Name'/>
+        <input type="email" placeholder='Email'/>
+        <input type="password" placeholder='Password'/>
+        <label>Department</label>
+        radio<input type="radio" name='department' value='IT'/>IT
+        radio<input type="radio" name='department' value='HR'/>HR
+        radio<input type="radio" name='department' value='Sales'/>Sales
+        radio<input type="radio" name='department' value='Marketing'/>Marketing
+        <button>Submit</button>
+      </form>
+    </div>
+  )
+}
+
+export default state

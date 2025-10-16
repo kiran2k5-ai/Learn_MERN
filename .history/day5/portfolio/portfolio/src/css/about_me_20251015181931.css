@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+.about{
+    margin-top: 3%;
+    display: flex;
+    margin-left: 8%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.abouth{
+    color: #05306d;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.aboutp{
+    margin-left: 5%;
+    font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 300;         
+    font-size: 18px;          
+    line-height: 1.6;        
+    letter-spacing: 0.2px;     
+    color: #181717;         
+    margin: 0; 
+}
+
+.aboutw{
+    margin-top: 3%;
+    color: #05306d;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.abouti{
+    font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 300;          
+    font-size: 25px;           
+    line-height: 1.6;          
+    letter-spacing: 0.2px;    
+    color: #181717;         
+    
+}
+
+.about-i{
+    display: flex;
+    flex-direction: row;
+    gap: 55%;
+}
+.aboutintern1{
+    padding-top: 5px;
+    width: 150px;
+    height: 100px;
+}
+.aboutintern2{
+    padding-left: 25px;
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+.line{
+    width: 90%;
+}
+.about-jj{
+    display:flex;
+    fl
+    justify-content: space-evenly;
+}
+.about-jj-name{
+    font-family: "Poppins", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 200;          
+    font-size: 20px;         
+    letter-spacing: 0.2px;    
+    color: #474444; 
+
+}
