@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Nav from './nav.jsx';
 import '../css/home.css';
-import Profile2 from '../images/profile_img.jpg';
+import Profile2 from '../images/profile_img.png';
 import Typed from 'typed.js';
 
 const Home = () => {
@@ -29,10 +29,9 @@ const Home = () => {
           </h1>
           <h2>I'm a <span id="typed-text"></span></h2>
         </div>
-        <div className="content-2">
-            <img src={Profile2} alt="Profile" />
+        <div>
+          <img className="content-2" src={Profile2} alt="Profile" />
         </div>
-
       </div>
     </>
   );

@@ -30,8 +30,8 @@ const Home = () => {
           <h2>I'm a <span id="typed-text"></span></h2>
         </div>
         <div className="content-2">
-            <img src={Profile2} alt="Profile" />
-        </div>
+  <img src={Profile2} alt="Profile" />
+</div>
 
       </div>
     </>

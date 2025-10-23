@@ -9,14 +9,18 @@
 .content-2 {
   width: 280px;
   height: 280px;
-  border-radius: 50%; 
+  border-radius: 50%; /* circular */
   border: 6px solid transparent;
+  background: linear-gradient(45deg, #00a6ff, #d400ff); /* gradient border */
+  padding: 5px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  transition: transform 0.6s ease, box-shadow 0.6s ease;
 }
 
 .content-2 img {
-  width: 400px;
+  width: 500px;
   height: 300px;
-  border-radius: 30%; 
+  border-radius: 50%; /* circular image inside */
   display: block;
   object-fit: cover;
 }
