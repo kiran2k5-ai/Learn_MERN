@@ -1,26 +1,26 @@
 import React from 'react'
 import '../css/techstack.css'
 
-import Image1 from '../images/java.png'
-import Image2 from '../images/js.png'
-import Image3 from '../images/python.jpeg'
-import Image4 from '../images/php.png'
-import Image5 from '../images/dart.png'
-import Image6 from '../images/react.png'
-import Image7 from '../images/tailwind.png'
-import Image8 from '../images/bootstrap.png'
-import Image9 from '../images/typescript.png'
-import Image10 from '../images/responsive.png'
-import Image11 from '../images/nodejs.png'
-import Image12 from '../images/express.png'
-import Image13 from '../images/fastapi.png'
-import Image14 from '../images/restapi.png'
-import Image15 from '../images/microservice.png'
-import Image16 from '../images/mysql.png'
-import Image17 from '../images/supabase.png'
-import Image18 from '../images/mongodb.png'
-import Image19 from '../images/postgresql.png'
-import Image20 from '../images/xampp.png'
+import Image1 from 'src/images/java.png'
+import Image2 from 'src/images/js.png'
+import Image3 from 'src/images/python.jpeg'
+import Image4 from 'src/images/php.png'
+import Image5 from 'src/images/dart.png'
+import Image6 from 'src/images/react.png'
+import Image7 from 'src/images/tailwind.png'
+import Image8 from 'src/images/bootstrap.png'
+import Image9 from 'src/images/typescript.png'
+import Image10 from 'src/images/responsive.png'
+import Image11 from 'src/images/nodejs.png'
+import Image12 from 'src/images/express.png'
+import Image13 from 'src/images/fastapi.png'
+import Image14 from 'src/images/restapi.png'
+import Image15 from 'src/images/microservice.png'
+import Image16 from 'src/images/mysql.png'
+import Image17 from 'src/images/supabase.png'
+import Image18 from 'src/images/mongodb.png'
+import Image19 from 'src/images/postgresql.png'
+import Image20 from 'src/images/xampp.png'
 
 const techstack = () => {
   return (
@@ -56,16 +56,16 @@ const techstack = () => {
           <img src={Image12} alt="Express" />
           <img src={Image13} alt="FastApi" />
           <img src={Image14} alt="RestApi" />
-          <img src={Image15} alt="Microservice" />
+          <img src="" alt="Microservice" />
         </div>
 
         <h5 className='techstack-h6'> Database Used : </h5>
         <div className='techstacklang'>
-          <img src={Image16} alt="Mysql" />
-          <img src={Image17} alt="Supabase" />
-          <img src={Image18} alt="Mongodb" />
-          <img src={Image19} alt="PostgreSql" />
-          <img src={Image20} alt="Xampp" />
+          <img src="" alt="Mysql" />
+          <img src="" alt="Supabase" />
+          <img src="" alt="Mongodb" />
+          <img src="" alt="PostgreSql" />
+          <img src="" alt="Xampp" />
         </div>
       </div>
     </div>

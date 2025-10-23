@@ -20,7 +20,7 @@ import Image16 from '../images/mysql.png'
 import Image17 from '../images/supabase.png'
 import Image18 from '../images/mongodb.png'
 import Image19 from '../images/postgresql.png'
-import Image20 from '../images/xampp.png'
+import Image20 from 'src/images/xampp.png'
 
 const techstack = () => {
   return (
