@@ -1,0 +1,7 @@
+const fetchapi = async()=>{
+        const res = await fetch('http://localhost:5000/task/retrive')
+        const data = await res.json()
+        console.log(data)
+
+}
+fetchapi()

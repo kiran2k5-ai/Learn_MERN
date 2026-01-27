@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-color: aqua;
+    gap:20px;
+    list-style: None;
+    
+    height: 100px;
+    
+}
+.navbar a{
+    text-decoration: none;
+}

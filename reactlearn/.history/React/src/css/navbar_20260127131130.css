@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-color: aqua;
+    gap:20px;
+    list-style: None;
+    padding: 50px 50px;
+    height: 15px;
+
+    
+}
+.navbar a{
+    text-decoration: none;
+}

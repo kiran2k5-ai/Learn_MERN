@@ -1,0 +1,20 @@
+import React from 'react'
+import Profile from './components/Profile.jsx'
+import Temp from "./hooks/Temp.jsx"
+import Parent from './components/Parent.jsx'
+import form from './hooks/form.jsx'
+
+const App = () => {
+  return (
+    <>
+      <Temp/>
+      <Profile name={["xyz","vhb","hjb"]} />
+      <h2>app</h2>
+      <Parent></Parent>
+      <form></form>
+    
+    </>
+  )
+}
+
+export default App
